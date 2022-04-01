@@ -1,4 +1,4 @@
 this is an example text file:
 
 camille: what're my plans for the weekend? visiting family in sf
-anna: i'm going camping!
+anna: i'm going camping! Yeehaw
